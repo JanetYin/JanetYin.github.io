@@ -26,9 +26,9 @@ I'm also a volunteer for the Thoughts Memo group.
 If you are interested in our translations, welcome to star [Thoughts Memo Translation](https://github.com/L-M-Sherlock/thoughts-memo-translation) and follow us at [Zhihu](https://www.zhihu.com/people/L.M.Sherlock)!
 
 # 🪐 Experience
-- *2023.09*: Functional Programming-ELTE Faculty of Informatics, demonstrator. 
-- *2023.08*: ESSLLI23-34TH EUROPEAN SUMMER SCHOOL IN LOGIC, LANGUAGE AND INFORMATION, participant. 
-- *2023.07*: Deep Learning Summer School-Neuromatch Academy, student.
+- *2023.09* Functional Programming-ELTE Faculty of Informatics, demonstrator. 
+- *2023.08* ESSLLI23-34TH EUROPEAN SUMMER SCHOOL IN LOGIC, LANGUAGE AND INFORMATION, participant. 
+- *2023.07* Deep Learning Summer School-Neuromatch Academy, student.
 
 # 👾 Projects（HWs）
 - [Fi-Life](https://people.inf.elte.hu/s5owd3/Fi-Life/index.html)
