@@ -17,14 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm studying computer science at ELTE. 
+In this semester, I am a demonstrator of functional programming and I am learning about compilers, concurrent programming...
 
+My research interests include functional programming, machine learning, cognitive science.
+
+I'm also a volunteer for the Thoughts Memo group. 
+If you are interested in our translation, welcome to star [Thoughts Memo Translation](https://github.com/L-M-Sherlock/thoughts-memo-translation) and follow us at [Zhihu](https://www.zhihu.com/people/L.M.Sherlock)!
 
 # 🪐 Experience
 - *2023.09*: Functional Programming-ELTE Faculty of Informatics, demonstrator. 
 - *2023.08*: ESSLLI23-34TH EUROPEAN SUMMER SCHOOL IN LOGIC, LANGUAGE AND INFORMATION, participant. 
 - *2023.07*: Deep Learning Summer School-Neuromatch Academy, student.
-<div class='paper-box-image'><div><div class="badge">ESSLLI23</div><img src='images/IMG_0877.JPG' alt="sym" width="100%"></div></div>
 
 # 🎖 Honors and Awards
 - *2022.09* Stipendium Hungaricum Scholarship. 
@@ -36,3 +40,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 # 💻 Internships
 - Applying
+
+# 🧠 Translations
+- [别跟教材客气：优质（数学）书籍挑选指南](https://zhuanlan.zhihu.com/p/619764249)- [Be ruthless for textbooks A guide for finding a good (math) book](https://docs.google.com/document/d/e/2PACX-1vTkqKg5IxCmPbw7JqnAWxoypaYNFH3XJd4UgYw4PufP09zzzW6j3v-CYXZkpD83sVrzygvg7gLbjM_Q/pub)
+- [原创思想需要独处](https://zhuanlan.zhihu.com/p/621750727)- [Original thought requires solitude](https://notes.andymatuschak.org/zPLYeEZ1gQRNMFeuBQt6Gmo)
+- [注意力](https://zhuanlan.zhihu.com/p/650257646)- [Attention](https://supermemo.guru/wiki/Attention)
+- [我们仍然不知道系统性撰写优质文字解释的方法](https://zhuanlan.zhihu.com/p/657707474)- [We still don't know how to systematically write great word explanations](https://wiki.issarice.com/wiki/We_still_don%27t_know_how_to_systematically_write_great_word_explanations)
+- [2C3：如何阅读小说（选修)](https://zhuanlan.zhihu.com/p/665212298)- [How to Read a Novel (Optional) | Refold](https://refold.la/roadmap/stage-2/c/how-to-read-a-novel)
