@@ -49,7 +49,7 @@ Many thanks to the members of the Thoughts Memo group for proofreading! Special 
 - [原创思想需要独处](https://zhuanlan.zhihu.com/p/621750727) - [Original thought requires solitude](https://notes.andymatuschak.org/zPLYeEZ1gQRNMFeuBQt6Gmo)
 - [注意力](https://zhuanlan.zhihu.com/p/650257646) - [Attention](https://supermemo.guru/wiki/Attention)
 - [我们仍然不知道系统性撰写优质文字解释的方法](https://zhuanlan.zhihu.com/p/657707474) - [We still don't know how to systematically write great word explanations](https://wiki.issarice.com/wiki/We_still_don%27t_know_how_to_systematically_write_great_word_explanations)
-- [2C3：如何阅读小说（选修)](https://zhuanlan.zhihu.com/p/665212298) - [How to Read a Novel (Optional) | Refold](https://refold.la/roadmap/stage-2/c/how-to-read-a-novel)
+- [2C3：如何阅读小说（选修)](https://zhuanlan.zhihu.com/p/665212298) - [How to Read a Novel (Optional)](https://refold.la/roadmap/stage-2/c/how-to-read-a-novel)
 
 # 💻 Internships
 - Applying
