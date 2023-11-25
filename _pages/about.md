@@ -30,7 +30,7 @@ If you are interested in our translations, welcome to star [Thoughts Memo Transl
 - *2023.08* ESSLLI23-34TH EUROPEAN SUMMER SCHOOL IN LOGIC, LANGUAGE AND INFORMATION, participant. 
 - *2023.07* Deep Learning Summer School-Neuromatch Academy, student.
 
-# 👾 Projects（HWs）
+# 👾 Projects(HWs)
 - [Fi-Life](https://people.inf.elte.hu/s5owd3/Fi-Life/index.html)
 - [Potato Map](https://people.inf.elte.hu/s5owd3/Potato-Map/game.html)
 
