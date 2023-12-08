@@ -20,7 +20,7 @@ redirect_from:
 I'm studying computer science at ELTE. 
 In this semester, I am a demonstrator of functional programming and I am learning about compilers, concurrent programming...
 
-My research interests include functional programming, machine learning, cognitive science.
+My research interests include functional programming, machine learning.Currently,I want to learn more about PL!
 
 I'm also a volunteer for the Thoughts Memo group. 
 If you are interested in our translations, welcome to star [Thoughts Memo Translation](https://github.com/L-M-Sherlock/thoughts-memo-translation) and follow us at [Zhihu](https://www.zhihu.com/people/L.M.Sherlock)!
