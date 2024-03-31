@@ -18,12 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I'm studying computer science at ELTE. 
-In this semester, I am a demonstrator of functional programming and I am learning compilers, concurrent programming...
+In this semester, I am a demonstrator of functional programming and I am studying type theory(in Agda), compiler...
 
-My research interests include functional programming, machine learning.Currently,I want to learn more about PL!
+My research interests include functional programming, type theory...
 
-I'm also a volunteer for the Thoughts Memo group. 
-If you are interested in our translations, welcome to star [Thoughts Memo Translation](https://github.com/L-M-Sherlock/thoughts-memo-translation) and follow us at [Zhihu](https://www.zhihu.com/people/L.M.Sherlock)!
 
 # 🪐 Experience
 - *2023.09* Functional Programming-ELTE Faculty of Informatics, demonstrator. 
@@ -52,4 +50,4 @@ Many thanks to the members of the Thoughts Memo group for proofreading! Special 
 - [2C3：如何阅读小说（选修)](https://zhuanlan.zhihu.com/p/665212298) - [How to Read a Novel (Optional)](https://refold.la/roadmap/stage-2/c/how-to-read-a-novel)
 
 # 💻 Internships
-- Applying
+- Waiting for applying
