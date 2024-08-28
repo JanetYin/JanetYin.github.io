@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm studying computer science at ELTE. 
-
-I am pleased to be a member of the [Budapest Type Theory Group](https://bitbucket.org/akaposi/tipuselmelet/src/master/)!!
+I'm studying computer science at ELTE. And I am a member of the [Budapest Type Theory Group](https://bitbucket.org/akaposi/tipuselmelet/src/master/)!
 
 In this semester, I am still a demonstrator of functional programming and I am doing my internship with [Ambrus Kaposi](https://akaposi.github.io/) implementating [something about QIIT](https://github.com/akaposi/langs) in Cubical Agda.
 
