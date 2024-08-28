@@ -18,17 +18,28 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I'm studying computer science at ELTE. 
-In this semester, I am a demonstrator of functional programming and I am studying type theory(in Agda), compiler...
+I am pleased to be a member of the [Budapest Type Theory Group](https://bitbucket.org/akaposi/tipuselmelet/src/master/)!!
+In this semester, I am still a demonstrator of functional programming and I am doing my internship with [Ambrus Kaposi](https://akaposi.github.io/) implementating [something about QIIT](https://github.com/akaposi/langs) in Cubical Agda.
 
-My research interests include functional programming, type theory...
+My research interests include functional programming, type theory... I am eager to learn abstract interpretation!
 
 
 # 🪐 Experience
+- *2024.06* PLDI 2024, volunteer.
+- *2024.05* TDK-ELTE IK, participant with third prize. I presented my first work : [There is no finite model in SK combinator calculus]().
+- *2024.01* POPL 2024, participant.
 - *2023.09* Functional Programming-ELTE Faculty of Informatics, demonstrator. 
 - *2023.08* ESSLLI23-34TH EUROPEAN SUMMER SCHOOL IN LOGIC, LANGUAGE AND INFORMATION, participant. 
 - *2023.07* Deep Learning Summer School-Neuromatch Academy, student.
 
+
+# 💻 Internships
+- [QIIT Book](https://github.com/akaposi/langs)
+  
 # 👾 Projects(HWs)
+Type Theory
+- [No Finite Model in SK Combinator Calculus](https://github.com/akaposi/langs/blob/main/untyped-sk/NoFiniteModel.agda)
+Web Programming
 - [Fi-Life](https://people.inf.elte.hu/s5owd3/Fi-Life/index.html)
 - [Potato Map](https://people.inf.elte.hu/s5owd3/Potato-Map/game.html)
 
@@ -49,5 +60,3 @@ Many thanks to the members of the Thoughts Memo group for proofreading! Special 
 - [我们仍然不知道系统性撰写优质文字解释的方法](https://zhuanlan.zhihu.com/p/657707474) - [We still don't know how to systematically write great word explanations](https://wiki.issarice.com/wiki/We_still_don%27t_know_how_to_systematically_write_great_word_explanations)
 - [2C3：如何阅读小说（选修)](https://zhuanlan.zhihu.com/p/665212298) - [How to Read a Novel (Optional)](https://refold.la/roadmap/stage-2/c/how-to-read-a-novel)
 
-# 💻 Internships
-- Waiting for applying
