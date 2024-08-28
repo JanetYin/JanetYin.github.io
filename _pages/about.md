@@ -28,7 +28,7 @@ My research interests include functional programming, type theory... I am eager 
 
 # 🪐 Experience
 - *2024.06* PLDI 2024, volunteer.
-- *2024.05* TDK-ELTE IK, participant with third prize. I presented my first work : [There is no finite model in SK combinator calculus]().
+- *2024.05* TDK-ELTE IK, participant with third prize. I presented my first work : [There is no finite model in SK combinator calculus](https://github.com/JanetYin/JanetYin.github.io/blob/main/docs/No%20finite%20model%20in%20SK%20combinator%20calculus.pdf).
 - *2024.01* POPL 2024, participant.
 - *2023.09* Functional Programming-ELTE Faculty of Informatics, demonstrator. 
 - *2023.08* ESSLLI23-34TH EUROPEAN SUMMER SCHOOL IN LOGIC, LANGUAGE AND INFORMATION, participant. 
