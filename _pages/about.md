@@ -25,8 +25,10 @@ My research interests include functional programming, type theory... I am eager 
 
 
 # 🪐 Experience
+- *2024.07* Utrecht Summer School - Advanced Functional Programming in Haskell, student.
 - *2024.06* PLDI 2024, volunteer.
 - *2024.05* TDK-ELTE IK, participant with third prize. I presented my first work : [There is no finite model in SK combinator calculus](https://github.com/JanetYin/JanetYin.github.io/blob/main/docs/No%20finite%20model%20in%20SK%20combinator%20calculus.pdf).
+- *2024.04* MGS 2024, student.
 - *2024.01* POPL 2024, participant.
 - *2023.09* Functional Programming-ELTE Faculty of Informatics, demonstrator. 
 - *2023.08* ESSLLI23-34TH EUROPEAN SUMMER SCHOOL IN LOGIC, LANGUAGE AND INFORMATION, participant. 
@@ -36,13 +38,9 @@ My research interests include functional programming, type theory... I am eager 
 # 💻 Internships
 - [QIIT Book](https://github.com/akaposi/langs)
   
-# 👾 Projects(HWs)
+# 👾 Projects
 Type Theory
 - [No Finite Model in SK Combinator Calculus](https://github.com/akaposi/langs/blob/main/untyped-sk/NoFiniteModel.agda)
-
-Web Programming
-- [Fi-Life](https://people.inf.elte.hu/s5owd3/Fi-Life/index.html)
-- [Potato Map](https://people.inf.elte.hu/s5owd3/Potato-Map/game.html)
 
 # 🎖 Honors and Awards
 - *2022.09* Stipendium Hungaricum Scholarship. 
